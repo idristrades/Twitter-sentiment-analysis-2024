@@ -4,3 +4,6 @@
 - In this example, we'll get the chance to analyse the latest 100 tweets from @elonmusk.
 - This can be used to analyse stock related news using the proper keywords.
 - First run: pip install ntscraper textblob
+
+
+**Each time, you get: "Fetching error: Instance has been rate limited.Use another instance or try again later.", simply run the code again.**
